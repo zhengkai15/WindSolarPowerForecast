@@ -1,0 +1,4 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit_learn==1.5.1
+xarray==2024.7.0
